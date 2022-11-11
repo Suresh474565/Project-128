@@ -1,0 +1,58 @@
+#heading
+{
+
+background-color:darkslateblue;
+font-size: 30px;
+margin:0px;
+color:darkturquoise;
+width: 100%;
+
+}
+
+#note
+{
+
+color:cornsilk;
+font-size: 25px;
+
+}
+
+#play_btn
+{
+
+color:cadetblue;
+width: 100px;
+height:50px;
+font-size: 25px;
+}
+
+body
+{
+
+    background-size:25%;
+
+}
+
+
+#footer
+{
+
+width: 100%;
+position: fixed;
+background-color:goldenrod ;
+color:darkmagenta;
+bottom: 0;
+height: 50px;
+font-size: 30px;
+text-align: center;
+
+
+}
+
+canvas
+{
+
+border-color: cornflowerblue;
+border-radius: 20px;
+
+}
